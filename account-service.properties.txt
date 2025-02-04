@@ -1,0 +1,2 @@
+server.port=8081
+banking.account.service.name=Account Management
